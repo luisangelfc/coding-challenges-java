@@ -12,7 +12,7 @@
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/luisangelfc/coding-challenges-java/tree/main
    ```
 2. **Navega a la carpeta del ejercicio que deseas probar:**
    ```bash
