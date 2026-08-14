@@ -12,12 +12,10 @@
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/luisangelfc/coding-challenges-java/tree/main
+   git clone https://github.com/luisangelfc/coding-challenges-java
    ```
 2. **Navega a la carpeta del ejercicio que deseas probar:**
-   ```bash
-   cd 01-basicos
-   ```
+
 3. **Compila y ejecuta el archivo Java:**
    ```bash
    javac NombreDelEjercicio.java
